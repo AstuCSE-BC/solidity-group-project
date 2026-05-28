@@ -1,0 +1,18 @@
+Course Name:
+Alchemy University - Learn Solidity
+
+Course Description:
+This course teaches Solidity programming,
+Ethereum smart contracts, blockchain basics,
+and decentralized application development.
+
+Main Topics:
+- Blockchain
+- Ethereum
+- Solidity
+- Smart Contracts
+- Functions
+- Variables
+- Arrays
+- Mappings
+- Contract Deployment

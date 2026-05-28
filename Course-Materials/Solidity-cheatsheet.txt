@@ -1,0 +1,15 @@
+Common Solidity Types:
+- uint
+- string
+- bool
+- address
+
+Common Keywords:
+- contract
+- function
+- public
+- private
+- require
+
+Example:
+uint public count;

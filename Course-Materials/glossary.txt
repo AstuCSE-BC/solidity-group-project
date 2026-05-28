@@ -1,0 +1,4 @@
+Blockchain - decentralized ledger
+Smart Contract - blockchain program
+Gas Fee - payment for transactions
+Wallet - blockchain account

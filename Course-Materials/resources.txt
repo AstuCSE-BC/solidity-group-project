@@ -1,0 +1,17 @@
+Useful Resources:
+
+Ethereum:
+https://ethereum.org/
+
+Solidity:
+https://soliditylang.org/
+
+GitHub:
+https://github.com/
+
+Marp Tool:
+https://book.getfoundry.sh/
+ 
+Alchemy:
+https://University.alchemy.com
+ 
